@@ -1,0 +1,17 @@
+(
+    version: "1.0",
+    plugins: [
+        (
+            name: "audio",
+            description: "Simple audio synthesizer & sound effects for Groot",
+            author: "John Esleyer",
+            path: "../groot-plugin-audio",
+        ),
+        (
+            name: "gizmos",
+            description: "2D/3D debug shape line drawer for Groot",
+            author: "John Esleyer",
+            path: "../groot-plugin-gizmos",
+        ),
+    ]
+)
