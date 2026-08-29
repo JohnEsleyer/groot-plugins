@@ -13,5 +13,11 @@
             author: "John Esleyer",
             path: "../groot-plugin-gizmos",
         ),
+        (
+            name: "ztarget",
+            description: "Z-Targeting lock-on & context camera (OoT-style) for Groot",
+            author: "John Esleyer",
+            path: "../groot-plugin-ztarget",
+        ),
     ]
 )
