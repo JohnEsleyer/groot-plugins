@@ -30,6 +30,12 @@ This repo contains `index.ron` — a registry of available Groot plugins. The `g
             author: "John Esleyer",
             path: "../groot-plugin-ztarget",
         ),
+        (
+            name: "kinematics",
+            description: "Action-adventure 3D kinematic character controller for Groot",
+            author: "John Esleyer",
+            path: "../groot-plugin-kinematics",
+        ),
     ]
 )
 ```
@@ -54,3 +60,4 @@ To register a new plugin, add an entry to `index.ron`:
 | [groot-plugin-audio](https://github.com/JohnEsleyer/groot-plugin-audio) | Audio synthesizer & sound effects |
 | [groot-plugin-gizmos](https://github.com/JohnEsleyer/groot-plugin-gizmos) | 2D/3D debug shape drawer |
 | [groot-plugin-ztarget](https://github.com/JohnEsleyer/groot-plugin-ztarget) | Z-Targeting lock-on & context camera (OoT-style) |
+| [groot-plugin-kinematics](https://github.com/JohnEsleyer/groot-plugin-kinematics) | Action-adventure 3D kinematic character controller |

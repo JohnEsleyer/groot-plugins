@@ -19,5 +19,11 @@
             author: "John Esleyer",
             path: "../groot-plugin-ztarget",
         ),
+        (
+            name: "kinematics",
+            description: "Action-adventure 3D kinematic character controller for Groot",
+            author: "John Esleyer",
+            path: "../groot-plugin-kinematics",
+        ),
     ]
 )
