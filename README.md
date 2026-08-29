@@ -62,3 +62,11 @@ To register a new plugin, add an entry to `index.ron`:
 | [groot-plugin-gamestate](https://github.com/JohnEsleyer/groot-plugin-gamestate) | Zelda-style flag registry, dungeon inventory, and save system |
 | [groot-plugin-dialogue](https://github.com/JohnEsleyer/groot-plugin-dialogue) | Typewriter dialogue, NPC choices, and cutscene text sequences |
 | [groot-plugin-audio-interactive](https://github.com/JohnEsleyer/groot-plugin-audio-interactive) | Dynamic background crossfading and Ocarina melody sequence detection |
+| [groot-plugin-fps-camera](https://github.com/JohnEsleyer/groot-plugin-fps-camera) | First-person look, head bob, and camera trauma for Groot FPS |
+| [groot-plugin-fps-movement](https://github.com/JohnEsleyer/groot-plugin-fps-movement) | Quake/Source style FPS character movement for Groot |
+| [groot-plugin-ballistics](https://github.com/JohnEsleyer/groot-plugin-ballistics) | Hitscan, projectiles, spread and recoil for Groot FPS |
+| [groot-plugin-viewmodel](https://github.com/JohnEsleyer/groot-plugin-viewmodel) | Dual-FOV weapon viewmodel and sway for Groot FPS |
+| [groot-plugin-decals](https://github.com/JohnEsleyer/groot-plugin-decals) | Bullet holes, scorch marks and blood decals for Groot FPS |
+| [groot-plugin-particles](https://github.com/JohnEsleyer/groot-plugin-particles) | GPU sparks, shell casings and muzzle flashes for Groot FPS |
+| [groot-plugin-perception-ai](https://github.com/JohnEsleyer/groot-plugin-perception-ai) | Sensory AI vision cones, hearing and cover for Groot FPS |
+| [groot-plugin-spatial-audio](https://github.com/JohnEsleyer/groot-plugin-spatial-audio) | 3D positional audio and room occlusion for Groot FPS |
